@@ -1,0 +1,299 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"co",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"wr",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"wra",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"spl",
+				"Emmet: Split\\Join Tag"
+			],
+			[
+				"split",
+				"Emmet: Split\\Join Tag"
+			],
+			[
+				"rem",
+				"Emmet: Remove Tag"
+			],
+			[
+				"merg",
+				"Emmet: Merge Lines"
+			],
+			[
+				"imag",
+				"Emmet: Update Image Size"
+			],
+			[
+				"ref",
+				"Emmet: Reflect CSS Value"
+			],
+			[
+				"data",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"co",
+				"Color picker"
+			],
+			[
+				"",
+				"Clipboard History"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"colo",
+				"Color picker"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Bellator/Desktop/project/index.html",
+		"/C/OpenServer/domains/test/style/style.css",
+		"/C/OpenServer/domains/test/index.html",
+		"/C/Users/Bellator/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/Bellator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Bellator/Desktop/Cobalt1.tmTheme",
+		"/C/Users/Bellator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Bellator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Bellator/Downloads/Cobalt.tmTheme",
+		"/C/Users/Bellator/Desktop/SideBarGit.sublime-settings",
+		"/C/Users/Bellator/AppData/Roaming/Sublime Text 3/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/C/OpenServer/domains/test/test.sublime-project",
+		"/C/Users/Bellator/Desktop/testindex.html",
+		"/C/Users/Bellator/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/Bellator/AppData/Roaming/Sublime Text 3/Installed Packages/Color Scheme - Sleeplessmind.sublime-package",
+		"/C/OpenServer/progs/_Office/Sublime_text/Data/Packages/Color Scheme - Default/Cobalt.tmTheme",
+		"/C/OpenServer/progs/_Office/Sublime_text/Data/Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+		"/C/Users/Bellator/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/Bellator/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/Bellator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+		"/C/OpenServer/progs/_Office/Sublime_text/Data/Packages/Color Scheme - Default/Monokai.tmTheme",
+		"/C/Users/Bellator/AppData/Local/Temp/Temp1_soda-theme-master.zip/soda-theme-master/Soda Dark.sublime-theme",
+		"/C/Users/Bellator/Desktop/style.css",
+		"/C/Users/Bellator/Desktop/test.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"84",
+			"		<",
+			"header",
+			">\n",
+			"header",
+			"content",
+			"nav",
+			"dsvdsvsdv",
+			"kv",
+			"djdsdkvlsdvkl",
+			"dsvdsvsdv",
+			">\n",
+			"fgfhgf",
+			"header",
+			"nav",
+			"content",
+			"article",
+			"footer",
+			"css",
+			"auto",
+			"window"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
