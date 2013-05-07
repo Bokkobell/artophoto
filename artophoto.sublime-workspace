@@ -31,9 +31,17 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 265.0,
 		"selected_items":
 		[
+			[
+				"git",
+				"Set Syntax: Git Graph"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
 			[
 				"wr",
 				"Emmet: Wrap With Abbreviation"
@@ -69,10 +77,6 @@
 			[
 				"data",
 				"Emmet: Encode\\Decode Image to data:URL"
-			],
-			[
-				"Package Control: ",
-				"Package Control: Install Package"
 			],
 			[
 				"co",
@@ -111,6 +115,9 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Bellator/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/Bellator/AppData/Roaming/Sublime Text 3/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/C/Users/Bellator/AppData/Roaming/Sublime Text 3/Packages/User/SideBarGit.sublime-settings",
 		"/C/Users/Bellator/Desktop/project/index.html",
 		"/C/OpenServer/domains/test/style/style.css",
 		"/C/OpenServer/domains/test/index.html",
@@ -121,7 +128,6 @@
 		"/C/Users/Bellator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/C/Users/Bellator/Downloads/Cobalt.tmTheme",
 		"/C/Users/Bellator/Desktop/SideBarGit.sublime-settings",
-		"/C/Users/Bellator/AppData/Roaming/Sublime Text 3/Packages/SideBarGit/SideBarGit.sublime-settings",
 		"/C/OpenServer/domains/test/test.sublime-project",
 		"/C/Users/Bellator/Desktop/testindex.html",
 		"/C/Users/Bellator/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
@@ -206,13 +212,13 @@
 						"selection":
 						[
 							[
-								31,
-								31
+								150,
+								150
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/Git/syntax/Git Graph.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
